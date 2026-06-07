@@ -6,9 +6,9 @@ A passionate Artificial Intelligence & Machine Learning student dedicated to sol
 
 ### 🚀 About Me
 
-- 🔭 **Current Focus:** Building functional web applications and optimizing algorithms.
-- 🌱 **Learning & Improving:** Deepening my knowledge in Data Structures & Algorithms (DSA) and predictive modeling.
-- 💬 **Ask me about:** Python development, campus project ideas, or collaborating on hackathons.
+- 🔭 **Current Focus:** Implementing core Data Structures and Algorithms (DSA) in Python and mastering problem-solving logic.
+- 🌱 **Learning & Improving:** Exploring Machine Learning fundamentals, data analysis techniques, and predictive modeling frameworks.
+- 💬 **Ask me about:** Python, database management, campus project collaboration, or preparing for hackathons.
 - ⚡ **Fun Fact:** I love combining technical logic with clean, minimalist design—whether it's code architecture or aesthetics.
 
 ---
@@ -27,15 +27,6 @@ A passionate Artificial Intelligence & Machine Learning student dedicated to sol
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yugbagrodia&show_icons=true&theme=tokyonight&count_private=true" alt="Yug's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugbagrodia&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yug-bagrodia-23671936a)
