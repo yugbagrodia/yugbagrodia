@@ -1,12 +1,41 @@
-<h1 align="center">Hi 👋, I'm Yug Bagrodia</h1>
-<h3 align="center">A passionate ALML student from SIT</h3>
+# Hi there, I'm Yug Bagrodia 👋
 
-- 👯 I’m looking to collaborate on **projects**
+A passionate Artificial Intelligence & Machine Learning student dedicated to solving real-world problems through clean code, structured data, and intelligent algorithms. 
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🚀 About Me
+
+- 🔭 **Current Focus:** Building functional web applications and optimizing algorithms.
+- 🌱 **Learning & Improving:** Deepening my knowledge in Data Structures & Algorithms (DSA) and predictive modeling.
+- 💬 **Ask me about:** Python development, campus project ideas, or collaborating on hackathons.
+- ⚡ **Fun Fact:** I love combining technical logic with clean, minimalist design—whether it's code architecture or aesthetics.
+
+---
+
+### 🛠️ Languages and Tools
+
+**Languages & Databases**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Data Science & Frameworks**
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
 <p align="left">
-<a href="https://linkedin.com/in/yug-bagrodia-23671936a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yug-bagrodia-23671936a" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=yugbagrodia&show_icons=true&theme=tokyonight&count_private=true" alt="Yug's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugbagrodia&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
+
+### 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
